@@ -1,5 +1,4 @@
-// C++ program to find quotient
-// and remainder of two numbers
+
 #include <iostream>
 using namespace std;
 
